@@ -24,7 +24,7 @@ fisher add jorgebucaran/fisher
 fisher add jethrokuan/z
 
 # Install emacs
-brew install emacs git lf python java maven kitty
+brew install emacs git lf python java maven kitty yabai skhd
 
 # Install haskell language server
 #brew install haskell-language-server
