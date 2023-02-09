@@ -1,0 +1,2 @@
+# gendots
+generalized dotfiles.
