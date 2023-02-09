@@ -1,6 +1,5 @@
 #cmds/functions
 map D delete
-map . set hidden!
 
 cmd open ${{
 	case $(file --dereference --mime-type $f -b) in
